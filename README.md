@@ -1,16 +1,19 @@
-## Hi there 👋
+Olá! 👋 Eu sou o Afonso Bento
 
-<!--
-**avbento67793/avbento67793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou estudante de Engenharia Informática na Nova School of Science and Technology (FCT NOVA) e estou atualmente no 3.º ano da licenciatura.  
 
-Here are some ideas to get you started:
+Tenho um grande interesse em **desenvolvimento web**, **redes de computadores** e **inteligência artificial**, e gosto de transformar ideias em soluções digitais práticas e eficientes.  
+Tenho também uma forte preferência por trabalhar com **Programação Orientada a Objetos (POO)**, especialmente em **Java**, onde gosto de aplicar princípios de boa arquitetura e design de software.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Para além da área tecnológica, sou **jogador de futebol no Clube Desportivo Cova da Piedade**, algo que me ensinou a importância do trabalho em equipa, da disciplina e da persistência — qualidades que levo também para a programação.  
+
+📚 Estou sempre motivado para aprender, colaborar e contribuir em projetos inovadores que me desafiem a crescer como desenvolvedor e como pessoa.
+
+## 📊 Estatísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avbento67793&show_icons=true&count_private=true&theme=radical&cache_seconds=0)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=avbento67793&layout=compact&theme=radical)
+
+## 📫 Contacto
+- 📧 Email: [afonso.v.bento@gmail.com] 
+- 💼 LinkedIn: [https://www.linkedin.com/in/afonso-bento-50250a284/]
+

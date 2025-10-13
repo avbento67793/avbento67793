@@ -5,7 +5,7 @@ Olá! 👋 Eu sou o Afonso Bento
 Tenho um grande interesse em **desenvolvimento web**, **redes de computadores** e **inteligência artificial**, e gosto de transformar ideias em soluções digitais práticas e eficientes.  
 Tenho também uma forte preferência por trabalhar com **Programação Orientada a Objetos (POO)**, especialmente em **Java**, onde gosto de aplicar princípios de boa arquitetura e design de software.  
 
-Para além da área tecnológica, sou **jogador de futebol no Clube Desportivo Cova da Piedade**, algo que me ensinou a importância do trabalho em equipa, da disciplina e da persistência — qualidades que levo também para a programação.  
+Para além da área tecnológica, sou **jogador de futebol nos Séniores do Clube Desportivo Cova da Piedade**, algo que me ensinou a importância do trabalho em equipa, da disciplina e da persistência — qualidades que levo também para a programação.  
 
 📚 Estou sempre motivado para aprender, colaborar e contribuir em projetos inovadores que me desafiem a crescer como desenvolvedor e como pessoa.
 
@@ -14,6 +14,6 @@ Para além da área tecnológica, sou **jogador de futebol no Clube Desportivo C
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=avbento67793&layout=compact&langs_count=16&theme=dracula)
 
 ## 📫 Contacto
-- 📧 Email: [afonso.v.bento@gmail.com] 
+- 📧 Email: [afonso.v.bento@gmail.com] [afonso10bento@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/afonso-bento-50250a284/]
 

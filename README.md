@@ -10,8 +10,8 @@ Para além da área tecnológica, sou **jogador de futebol no Clube Desportivo C
 📚 Estou sempre motivado para aprender, colaborar e contribuir em projetos inovadores que me desafiem a crescer como desenvolvedor e como pessoa.
 
 ## 📊 Estatísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avbento67793&show_icons=true&count_private=true&theme=radical&cache_seconds=0)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=avbento67793&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avbento67793&show_icons=true&theme=dracula&cinclude_all_commits=true&count_private=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=avbento67793&layout=compact&langs_count=16&theme=dracula)
 
 ## 📫 Contacto
 - 📧 Email: [afonso.v.bento@gmail.com] 

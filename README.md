@@ -9,9 +9,6 @@ Para além da área tecnológica, sou **jogador de futebol nos Séniores do Club
 
 📚 Estou sempre motivado para aprender, colaborar e contribuir em projetos inovadores que me desafiem a crescer como desenvolvedor e como pessoa.
 
-## 📊 Estatísticas de GitHub
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=avbento67793&layout=compact&langs_count=16&theme=dracula)
-
 ## 📫 Contacto
 - 📧 Email: [afonso.v.bento@gmail.com] [afonso10bento@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/afonso-bento-50250a284/]
